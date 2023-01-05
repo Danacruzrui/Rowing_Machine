@@ -1,10 +1,27 @@
 
 <h1 align="center"> Rowing Machine Project :wrench: </h1> 
 
-El proyecto Rowing Machine consiste en la adaptación e instrumentación de la maquina de remo Concept2, con el objetivo de implementarla como un dispositivo de rehabilitación para pacientes con lesión medular menor a T7 mediante la asistencia controlada al movimiento de flexión y extensión de los miembros inferiores que se realiza en el ejercicio de remo. 
+El proyecto Rowing Machine consiste en la adaptación e instrumentación de la maquina de remo Concept2, con el objetivo de implementarla como un dispositivo de rehabilitación para pacientes con lesión medular menor a T7 mediante la asistencia controlada del movimiento de flexión y extensión propio del ejercicio de remo, a partir de un mecanismo de movimiento lineal que desplaza al paciente. 
 
 ---
-> ### Autores
+
+### Contenido
+
+[Unidad de almacenamiento](#Unidad de almacenamiento)
+[Modelo CAD](#Modelo-CAD)
+[Manual de ensamble](#Manual-de-ensamble )
+[Manual de operación](#Manual-de-operación) 
+1. [Modelo CAD](#Modelo-CAD)
+6. [Autores](#Autores)
+
+>Nota
+
+## Unidad de almacenamiento 
+## Modelo CAD
+## Manual de ensamble 
+## Manual de operación 
+
+## Autores
 > - Brayan Stiven Acuña García (bsacunag@unal.edu.co)
 > - [Javier Caicedo Pedrozo](https://github.com/jcaicedop)   (jcaicedop@unal.edu.co)
 > - [Daniel Alexander Cruz Ruiz ](https://github.com/Danacruzrui) (danacruzrui@unal.edu.co) 
@@ -13,16 +30,3 @@ El proyecto Rowing Machine consiste en la adaptación e instrumentación de la m
 > - [Diego Fabián Osorio Fonseca](https://github.com/dosoriof) (dosoriof@unal.edu.co)
 > - [Camilo Pineda Correa](https://github.com/capinedac) (capinedac@unal.edu.co)
 ---
-### Contenido
-
-1. [Modelo de cinemática inversa](#modelo-de-cinemática-inversa)
-1. [Script en Python](#script-en-python-snake)
-1. [Resultados](#resultados)
-3. [Conclusiones](#conclusiones-page_facing_up)
-5. [Referencias](#referencias-openbook)
-
-6. [Autores](#autores-blacknib)
-
->Nota: Los documentos referentes a este laboratorio se encuentran en la carpeta del respositorio denominada "Lab5"
-
-## Modelo de cinemática inversa
