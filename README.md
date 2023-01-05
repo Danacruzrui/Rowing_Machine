@@ -7,7 +7,7 @@ El proyecto Rowing Machine consiste en la adaptación e instrumentación de la m
 
 ### Contenido
 
-1. [Unidad de almacenamiento](#Unidad de almacenamiento)
+1. [Unidad de almacenamiento](#Unidad-de-almacenamiento)
 2. [Modelo CAD](#Modelo-CAD)
 3. [Manual de ensamble](#Manual-de-ensamble )
 4. [Manual de operación](#Manual-de-operación) 
