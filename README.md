@@ -6,12 +6,12 @@ El proyecto Rowing Machine consiste en la adaptación e instrumentación de la m
 ---
 > ### Autores
 > - Brayan Stiven Acuña García (bsacunag@unal.edu.co)
-> - [Javier Caicedo Pedrozo] (https://github.com/jcaicedop)   (jcaicedop@unal.edu.co)
+> - [Javier Caicedo Pedrozo](https://github.com/jcaicedop)   (jcaicedop@unal.edu.co)
 > - [Daniel Alexander Cruz Ruiz ](https://github.com/Danacruzrui) (danacruzrui@unal.edu.co) 
 > - Angel Steven Forero Cuervo (asforeroc@unal.edu.co)
-> - [Jhon Brandol Muñoz Romero] (https://github.com/Jhonbrando)(jbmunozr@unal.edu.co)
+> - [Jhon Brandol Muñoz Romero](https://github.com/Jhonbrando)(jbmunozr@unal.edu.co)
 > - [Diego Fabián Osorio Fonseca](https://github.com/dosoriof) (dosoriof@unal.edu.co)
-> - [Camilo Pineda Correa] (https://github.com/capinedac) (capinedac@unal.edu.co)
+> - [Camilo Pineda Correa](https://github.com/capinedac) (capinedac@unal.edu.co)
 ---
 ### Contenido
 
