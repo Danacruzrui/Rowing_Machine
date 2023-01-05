@@ -17,6 +17,9 @@ El proyecto Rowing Machine consiste en la adaptación e instrumentación de la m
 >Nota
 
 ## Unidad de almacenamiento 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/53317895/210720098-789618ae-394b-46b5-9458-a66aac7c1bcf.png" alt="tool" width="500" /> <br/>
+ </p>
 ## Modelo CAD
 ## Manual de ensamble 
 ## Manual de operación 
