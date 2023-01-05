@@ -2,13 +2,16 @@
 <h1 align="center"> Rowing Machine Project :wrench: </h1> 
 
 El proyecto Rowing Machine consiste en la adaptación e instrumentación de la maquina de remo Concept2, con el objetivo de implementarla como un dispositivo de rehabilitación para pacientes con lesión medular menor a T7 mediante la asistencia controlada al movimiento de flexión y extensión de los miembros inferiores que se realiza en el ejercicio de remo. 
+
 ---
 > ### Autores
-> 
-> - [Camilo Andrés Borda Gil](https://github.com/Canborda) (caabordagi@unal.edu.co) 
+> - Brayan Stiven Acuña García (bsacunag@unal.edu.co)
+> - [Javier Caicedo Pedrozo] (https://github.com/jcaicedop)   (jcaicedop@unal.edu.co)
 > - [Daniel Alexander Cruz Ruiz ](https://github.com/Danacruzrui) (danacruzrui@unal.edu.co) 
-> - [Cristhian Ferney Pulido Garcia](https://github.com/CristhianPu) (cfpulidog@unal.edu.co) 
-> - [Brian Camilo Saiz Cavanzo](https://github.com/briansaiz) (brcsaizca@unal.edu.co)
+> - Angel Steven Forero Cuervo (asforeroc@unal.edu.co)
+> - [Jhon Brandol Muñoz Romero] (https://github.com/Jhonbrando)(jbmunozr@unal.edu.co)
+> - [Diego Fabián Osorio Fonseca](https://github.com/dosoriof) (dosoriof@unal.edu.co)
+> - [Camilo Pineda Correa] (https://github.com/capinedac) (capinedac@unal.edu.co)
 ---
 ### Contenido
 
