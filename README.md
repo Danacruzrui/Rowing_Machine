@@ -1,7 +1,7 @@
 
 <h1 align="center"> Rowing Machine Project 🦾  </h1> 
 
-En este repositorio encontrarás documentación, manuales, códigos e hipervinculos asociados el proyecto _Rowing Machine_ 
+En este repositorio encontrarás documentación, manuales, códigos e hipervínculos asociados al proyecto _Rowing Machine_ 
 
 ---
 
@@ -18,7 +18,8 @@ En este repositorio encontrarás documentación, manuales, códigos e hipervincu
 
 
 ## Resumen
-El proyecto Rowing Machine consiste en la adaptación e instrumentación de la maquina de remo Concept2, con el objetivo de implementarla como un dispositivo de rehabilitación para pacientes con lesión medular menor a T7 mediante la asistencia controlada del movimiento de flexión y extensión propio del ejercicio de remo, a partir de un mecanismo de movimiento lineal que desplaza al paciente. 
+El proyecto Rowing Machine consiste en la adaptación e instrumentación de la maquina de remo Concept2, con el objetivo de implementarla como un dispositivo de rehabilitación para pacientes con lesión medular menor a T7 mediante la asistencia controlada del movimiento de flexión y extensión propio del ejercicio de remo. 
+Como respuesta a se realiza el diseño de un mecanismo de movimiento lineal capaz de desplazar al paciente según los perfiles de desplazamiento propios del ejercicio de remo, este mecanismo de transmisión de potencia implementa un sistema de poleas, capa
 
 ## Unidad de almacenamiento 
 <p align="center">
