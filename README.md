@@ -23,7 +23,7 @@ Como respuesta a se realiza el diseño de un mecanismo de movimiento lineal capa
 
 ## Unidad de almacenamiento 
 
-A lo largo del desarrollo del proyecto se optó por almacenar los archivos relacionados al proyecto en una unidad compartida de Google Drive, los archivos fueron organizados en 14 carpetas dentro de las cuales se destacan 
+A lo largo del desarrollo del proyecto se optó por almacenar los archivos relacionados al proyecto en una unidad compartida de Google Drive, los archivos fueron organizados en 14 carpetas que incluyen la documentación previa provista por los directores del proyecto, las actas, actividades y planeación que reflejan la metodología implementada en la ejecución del proyecto y archivos CAD (planos y modelos) correspondientes a la adaptación realizada. El link de la unidad compartida se encuentra a continuación:
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/53317895/210720098-789618ae-394b-46b5-9458-a66aac7c1bcf.png" alt="tool" width="500" /> <br/>
