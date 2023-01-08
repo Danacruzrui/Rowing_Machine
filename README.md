@@ -1,7 +1,7 @@
 
 <h1 align="center"> Rowing Machine Project 🦾  </h1> 
 
-En este repositorio encontrarás documentación, manuales, códigos e hipervínculos asociados al proyecto _Rowing Machine_ 
+En este repositorio encontrarás documentación, manuales, códigos e hipervínculos asociados al proyecto _Rowing Machine_ 2022-2
 
 ---
 
@@ -23,7 +23,8 @@ Como respuesta a se realiza el diseño de un mecanismo de movimiento lineal capa
 
 ## Unidad de almacenamiento 
 
-El principal 
+A lo largo del desarrollo del proyecto se optó por almacenar los archivos relacionados al proyecto en una unidad compartida de Google Drive, los archivos fueron organizados en 14 carpetas dentro de las cuales se destacan 
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/53317895/210720098-789618ae-394b-46b5-9458-a66aac7c1bcf.png" alt="tool" width="500" /> <br/>
  </p>
