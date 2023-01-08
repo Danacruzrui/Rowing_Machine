@@ -45,3 +45,8 @@ A lo largo del desarrollo del proyecto se optó por almacenar los archivos relac
 > - [Diego Fabián Osorio Fonseca](https://github.com/dosoriof) (dosoriof@unal.edu.co)
 > - [Camilo Pineda Correa](https://github.com/capinedac) (capinedac@unal.edu.co)
 ---
+## Directores
+
+> - Angélica Ramírez 
+> - Angie Stephanie Vega Toro
+> - Hernan David Barreto 
