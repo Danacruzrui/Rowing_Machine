@@ -58,6 +58,6 @@ El link para acceder al modelo es el siguiente: [CAD COLABORATIVO](https://drive
 ---
 ## Directores
 
-> - Angélica Ramírez 
+> - Angélica Maria Ramirez Martinez
 > - Angie Stephanie Vega Toro
-> - Hernan David Barreto 
+> - Hernan David Barreto Garzón
