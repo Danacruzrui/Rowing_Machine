@@ -31,6 +31,17 @@ A lo largo del desarrollo del proyecto se optó por almacenar los archivos relac
  
 
 ## Modelo CAD
+Se realiza un modelo CAD utilizando el sofware Autodesk Inventor en su versión 2022, este modelo se encuentra organizado en cinco carpetas correspondientes a los subsistemas que componen el diseño general 
+
+1. Mecanismo de movimiento lineal (MML)
+2. Sujeción silla (SLL)
+3. Acople silla riel (ASR) 
+4. Sistema electrico y electronico (EL) 
+5. Sujeción miembros inferiores (SMI) 
+
+Finalmente se realiza un ensamble general donde se integran todos los subsitemas, este archivo se encuentra como **1.GENERAL_Proyecto_ada_maq_remo.iam**
+El link para acceder al modelo es el siguiente: [CAD COLABORATIVO](https://drive.google.com/drive/folders/1i63YF57rcCv_cbrC5JMalGdo3bhI2gLO?usp=share_link)
+
 
 ## Manual de ensamble 
 
