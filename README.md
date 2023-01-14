@@ -32,6 +32,9 @@ A lo largo del desarrollo del proyecto se optó por almacenar los archivos relac
 
 ## Modelo CAD
 Se realiza un modelo CAD utilizando el sofware Autodesk Inventor en su versión 2022, este modelo se encuentra organizado en cinco carpetas correspondientes a los subsistemas que componen el diseño general 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/53317895/212462906-c6280e85-7df6-492d-9742-acad1538cda0.png" alt="tool" width="500" /> <br/>
+ </p>
 
 1. Mecanismo de movimiento lineal (MML)
 2. Sujeción silla (SLL)
