@@ -50,6 +50,12 @@ El link para acceder al modelo es el siguiente: [CAD COLABORATIVO](https://drive
 
 ## Manual de operación 
 
+Se verifica que el botón de emergencia se encuentre presionado y el selector se encuentre en posición de apagado (parte superior hacia el borde de la caja) 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/53317895/212463168-e9b1b28e-fd3f-4bfd-8c45-19a19658c492.png" alt="tool" width="500" /> <br/>
+ </p>
+
+
 ## Autores
 > - Brayan Stiven Acuña García (bsacunag@unal.edu.co)
 > - [Javier Caicedo Pedrozo](https://github.com/jcaicedop)   (jcaicedop@unal.edu.co)
