@@ -39,7 +39,7 @@ Se realiza un modelo CAD utilizando el sofware Autodesk Inventor en su versión 
 1. Mecanismo de movimiento lineal (MML)
 2. Sujeción silla (SLL)
 3. Acople silla riel (ASR) 
-4. Sistema electrico y electronico (EL) 
+4. Sistema electrico y electronico (SEL) 
 5. Sujeción miembros inferiores (SMI) 
 
 Finalmente se realiza un ensamble general donde se integran todos los subsitemas, este archivo se encuentra como **1.GENERAL_Proyecto_ada_maq_remo.iam**
