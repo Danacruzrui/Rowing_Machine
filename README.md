@@ -11,7 +11,7 @@ En este repositorio encontrarás documentación, manuales, códigos e hipervínc
 3. [Modelo CAD](#Modelo-CAD)
 4. [Manual de ensamble](#Manual-de-ensamble )
 5. [Manual de operación](#Manual-de-operación) 
-6. [Modelo CAD](#Modelo-CAD)
+6. [Sistema eléctrico](#Sistema-eléctrico)
 7. [Autores](#Autores)
 
 >Nota
@@ -39,7 +39,7 @@ Se realiza un modelo CAD utilizando el sofware Autodesk Inventor en su versión 
 1. Mecanismo de movimiento lineal (MML)
 2. Sujeción silla (SLL)
 3. Acople silla riel (ASR) 
-4. Sistema electrico y electronico (SEL) 
+4. Sistema eléctrico y electrónico (SEL) 
 5. Sujeción miembros inferiores (SMI) 
 
 Finalmente se realiza un ensamble general donde se integran todos los subsitemas, este archivo se encuentra como **1.GENERAL_Proyecto_ada_maq_remo.iam**
@@ -55,6 +55,7 @@ Se verifica que el botón de emergencia se encuentre presionado y el selector se
     <img src="https://user-images.githubusercontent.com/53317895/212463168-e9b1b28e-fd3f-4bfd-8c45-19a19658c492.png" alt="tool" width="500" /> <br/>
  </p>
 
+## Sistema eléctrico 
 
 ## Autores
 > - Brayan Stiven Acuña García (bsacunag@unal.edu.co)
