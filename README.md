@@ -56,6 +56,10 @@ Se verifica que el botón de emergencia se encuentre presionado y el selector se
  </p>
 
 ## Sistema eléctrico 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/53317895/225231644-08532db2-40a7-4afc-87ba-0b8fd96cf272.png" alt="tool" width="500" /> <br/>
+ </p>
+
 
 ## Autores
 > - Brayan Stiven Acuña García (bsacunag@unal.edu.co)
