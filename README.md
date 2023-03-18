@@ -42,12 +42,16 @@ Se realiza un modelo CAD utilizando el sofware Autodesk Inventor en su versión 
 4. Sistema eléctrico y electrónico (SEL) 
 5. Sujeción miembros inferiores (SMI) 
 
-Finalmente se realiza un ensamble general donde se integran todos los subsitemas, este archivo se encuentra como **1.GENERAL_Proyecto_ada_maq_remo.iam**
+Finalmente, se realiza un ensamble general donde se integran todos los subsitemas, este archivo se encuentra como **1.GENERAL_Proyecto_ada_maq_remo.iam**
 El link para acceder al modelo es el siguiente: [CAD COLABORATIVO](https://drive.google.com/drive/folders/1i63YF57rcCv_cbrC5JMalGdo3bhI2gLO?usp=share_link)
 
 
 ## Manual de ensamble 
-El ensamble se realiza a partir de la máquina de remo Concept2 Model D, por lo cual resulta necesario tener previamente ensamblada la máquina según las indicaciones del fabricante, a continuación se adjunta el hipervinculo al manual de ensamble suministrado por Concept2  [Model D Assembly Instructions](https://www.concept2.com/service/indoor-rowers/model-d/manuals-and-schematics)  
+El ensamble se realiza sobre la máquina de remo Concept2 Model D, por lo cual resulta necesario tener previamente ensamblada la máquina según las indicaciones del fabricante, a continuación se adjunta el hipervinculo al manual de ensamble suministrado por Concept2  [Model D Assembly Instructions](https://www.concept2.com/service/indoor-rowers/model-d/manuals-and-schematics).
+Una vez se tiene la maquina correctamente ensamblada, se sugiere seguir el siguiente orden para instalar los subsistemas que componen la adaptación:
+1. ACOPLE SILLA RIEL
+   
+2. 
 
 ## Manual de operación 
 
