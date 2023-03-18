@@ -63,7 +63,7 @@ El ensamble de este subsistema se realiza sobre la viga de la máquina Concept2,
  3. **MECANISMO DE MOVIMIENTO LINEAL**
  
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/53317895/226143649-2eb1c5f1-3ea4-46a5-a213-92f141e8ada4.png" alt="tool" width="500" /> <br/>
+    <img src="https://user-images.githubusercontent.com/53317895/226144620-159d650f-b8ae-42fa-ac9b-2f3dde2aad7d.png" alt="tool" width="500" /> <br/>
  </p> 
  
  4. **SUJECIÓN MIEMBROS INFERIORES**
