@@ -68,7 +68,7 @@ El ensamble de este subsistema se realiza sobre la viga de la máquina Concept2,
  
  4. **SUJECIÓN MIEMBROS INFERIORES**
  <p align="center">
-    <img src="" alt="tool" width="500" /> <br/>
+    <img src="https://user-images.githubusercontent.com/53317895/226144331-fddea5c7-6052-4350-88ae-a2378b8543bf.png" alt="tool" width="500" /> <br/>
  </p> 
  
  5. **ENSAMBLE GENERAL**
