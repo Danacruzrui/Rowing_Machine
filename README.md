@@ -102,7 +102,17 @@ Se verifica que el botón de emergencia se encuentre presionado y el selector se
 
 ### Operación protocolo web (Inalámbrica)
 
-
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/53317895/226145103-8eb52a06-be2d-4647-8012-ad020e4f36a1.png" alt="tool" width="500" /> <br/>
+ </p>
+ <p align="center">
+    <img src="https://user-images.githubusercontent.com/53317895/226145137-32e4a9a7-c33f-4f84-a4bf-e0b509374bb6.png" alt="tool" width="500" /> <br/>
+ </p>
+ 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/53317895/226145152-480f9f8f-8149-4210-8268-3ea3fefff237.png" alt="tool" width="500" /> <br/>
+ </p>
+ 
 ## Sistema eléctrico 
 
 <p align="center">
