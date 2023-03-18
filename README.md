@@ -61,6 +61,9 @@ Una vez se tiene la maquina correctamente ensamblada, se sugiere seguir el sigui
 
 Se verifica que el botón de emergencia se encuentre presionado y el selector se encuentre en posición de apagado (parte superior hacia el borde de la caja) 
 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/53317895/212463168-e9b1b28e-fd3f-4bfd-8c45-19a19658c492.png" alt="tool" width="500" /> <br/>
+ </p>
 
 ## Sistema eléctrico 
 
