@@ -87,16 +87,17 @@ Se verifica que el botón de emergencia se encuentre presionado y el selector se
 ### Operación serial (Alámbrica)
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/53317895/226144815-ecb824c0-60b0-49fb-966c-5556b43c707c.png" alt="tool" width="500" /> <br/>
+    <img src="https://user-images.githubusercontent.com/53317895/226144815-ecb824c0-60b0-49fb-966c-5556b43c707c.png" alt="tool" width="200" /> <br/>
  </p>
-
+ <p align="center">
+    <img src="https://user-images.githubusercontent.com/53317895/226144921-ae219886-67c0-447e-88c4-7f54fed93108.png" alt="tool" width="200" /> <br/>
+ </p>
+ 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/53317895/226144894-66bc88e6-0c67-4384-bf6f-ed41d9945920.png" alt="tool" width="500" /> <br/>
  </p>
  
- <p align="center">
-    <img src="https://user-images.githubusercontent.com/53317895/226144921-ae219886-67c0-447e-88c4-7f54fed93108.png" alt="tool" width="500" /> <br/>
- </p>
+
  
 
 ### Operación protocolo web (Inalámbrica)
