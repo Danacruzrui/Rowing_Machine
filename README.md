@@ -50,21 +50,20 @@ El link para acceder al modelo es el siguiente: [CAD COLABORATIVO](https://drive
 El ensamble se realiza sobre la máquina de remo Concept2 Model D, por lo cual resulta necesario tener previamente ensamblada la máquina según las indicaciones del fabricante, a continuación se adjunta el hipervinculo al manual de ensamble suministrado por Concept2  [Model D Assembly Instructions](https://www.concept2.com/service/indoor-rowers/model-d/manuals-and-schematics).
 Una vez se tiene la maquina correctamente ensamblada, se sugiere seguir el siguiente orden para instalar los subsistemas que componen la adaptación:
 1. ACOPLE SILLA RIEL
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/53317895/226142626-c23eb29f-8360-418d-907a-f1ed1884f298.png" alt="tool" width="500" /> <br/>
- </p>
 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/53317895/225231644-08532db2-40a7-4afc-87ba-0b8fd96cf272.png" alt="tool" width="500" /> <br/>
+ </p>
 
 2. 
 
 ## Manual de operación 
 
 Se verifica que el botón de emergencia se encuentre presionado y el selector se encuentre en posición de apagado (parte superior hacia el borde de la caja) 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/53317895/212463168-e9b1b28e-fd3f-4bfd-8c45-19a19658c492.png" alt="tool" width="500" /> <br/>
- </p>
+
 
 ## Sistema eléctrico 
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/53317895/225231644-08532db2-40a7-4afc-87ba-0b8fd96cf272.png" alt="tool" width="500" /> <br/>
  </p>
