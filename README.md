@@ -52,7 +52,7 @@ Una vez se tiene la maquina correctamente ensamblada, se sugiere seguir el sigui
 1. ACOPLE SILLA RIEL
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/53317895/225231644-08532db2-40a7-4afc-87ba-0b8fd96cf272.png" alt="tool" width="500" /> <br/>
+    <img src="https://user-images.githubusercontent.com/53317895/226142626-c23eb29f-8360-418d-907a-f1ed1884f298.png" alt="tool" width="500" /> <br/>
  </p>
 
 2. 
