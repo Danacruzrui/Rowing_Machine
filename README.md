@@ -47,6 +47,7 @@ El link para acceder al modelo es el siguiente: [CAD COLABORATIVO](https://drive
 
 
 ## Manual de ensamble 
+El ensamble se realiza a partir de la máquina de remo Concept2 Model D, por lo cual resulta necesario tener previamente ensamblada la máquina según las indicaciones del fabricante, a continuación se adjunta el hipervinculo al manual de ensamble suministrado por Concept2  [Model D Assembly Instructions](https://www.concept2.com/service/indoor-rowers/model-d/manuals-and-schematics)  
 
 ## Manual de operación 
 
