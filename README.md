@@ -112,17 +112,27 @@ El microcontrolador ESP32 tiene un módulo Wi-Fi que permite que el sistema se p
 
 Una vez explicados los detalles técnicos de la interfaz, podemos pasar a ver su funcionamiento. Primero que todo, para asegurar que no cualquier persona pueda controlar la máquina, se cuenta con un incio de sesión con usuario y contraseña. Además de una sección de información donde se explica el objetivo de la página web.
 
-
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/53317895/226145137-32e4a9a7-c33f-4f84-a4bf-e0b509374bb6.png" alt="tool" width="500" /> <br/>
+</p>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/53317895/226145103-8eb52a06-be2d-4647-8012-ad020e4f36a1.png" alt="tool" width="500" /> <br/>
  </p>
- <p align="center">
-    <img src="https://user-images.githubusercontent.com/53317895/226145137-32e4a9a7-c33f-4f84-a4bf-e0b509374bb6.png" alt="tool" width="500" /> <br/>
- </p>
+ 
+ Luego de iniciar sesión se puede continuar a hacer el control de la máquina. En la página principal existe una barra superior desde la que se puede acceder rápidamente a los perfiles leidos por los sensores y además se puede cerrar la sesión. En la parte izquierda se cuenta con una barra de control desde la que se puede hacer la calibración de la máquina, iniciar la operación y deterla. La interfaz no va a permitir que se haga el inicio de la rutina sin que previamente se haga la calibración de la máquina. Por último, se tiene la sección de disposición de información leída: allí se encuentras los valores actuales leídos y además un record en forma de gráficas de Posición, Velocidad y Aceleración leídas desde la máquina. 
  
 <p align="center">
     <img src="https://user-images.githubusercontent.com/53317895/226145152-480f9f8f-8149-4210-8268-3ea3fefff237.png" alt="tool" width="500" /> <br/>
  </p>
+ 
+ En el manual de operación con la interfaz web se explica detalladamente cómo se hace la conexión a Wi-Fi de la ESP32 cómo se obtiene la dirección IP a la que se deben conectar los dispositivos desde los que se quiera controlar la máquina.
+ 
+ 
+ 
+ Es importante aclarar que debido a algunos problemas presentados durante la realización de las primeras pruebas de funcionamiento por parte de la interfaz Web, donde algunas veces si realizaba la conexión y podía recibir y enviar datos con la ESP32 y algunas veces no; y teniendo en cuenta que en muchos lugares de Colombia las redes no son lo suficientemente rápidas o estables como para actuar inmediatamente en la máquina; y que en este sentido se pondría en riesgo la salud del paciente; se decidió cambiar a una interfaz con comunicación serial. 
+ 
+ De esta manera, poniendo en primer lugar la seguridad del paciente, los avances realizados con la interfaz web llegan hasta un punto donde pueden no ser compatibles con la versión final del mecanismo y sensores. En caso de que si, esta no debe ser usados en pruebas con pacientes reales. Sin embargo, la información correspondiente a esta es presetan aquí como información base en caso de que alguien mas quiera realizar avances o nuevas implementaciones con ella. 
+ 
  
 ## Sistema eléctrico 
 
