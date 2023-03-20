@@ -131,7 +131,7 @@ Una vez explicados los detalles técnicos de la interfaz, podemos pasar a ver su
  
  Es importante aclarar que debido a algunos problemas presentados durante la realización de las primeras pruebas de funcionamiento por parte de la interfaz Web, donde algunas veces si realizaba la conexión y podía recibir y enviar datos con la ESP32 y algunas veces no; y teniendo en cuenta que en muchos lugares de Colombia las redes no son lo suficientemente rápidas o estables como para actuar inmediatamente en la máquina; y que en este sentido se pondría en riesgo la salud del paciente; se decidió cambiar a una interfaz con comunicación serial. 
  
- De esta manera, poniendo en primer lugar la seguridad del paciente, los avances realizados con la interfaz web llegan hasta un punto donde pueden no ser compatibles con la versión final del mecanismo y sensores. En caso de que si, esta no debe ser usados en pruebas con pacientes reales. Sin embargo, la información correspondiente a esta es presetan aquí como información base en caso de que alguien mas quiera realizar avances o nuevas implementaciones con ella. 
+ De esta manera, poniendo en primer lugar la seguridad del paciente, los avances realizados con la interfaz web llegan hasta un punto donde pueden no ser compatibles con la versión final del mecanismo y sensores. En caso de que si, esta no debe ser usados en pruebas con pacientes reales. Sin embargo, los archivos respectivos a esta Interfaz se presetan aquí como información base en caso de que alguien más quiera realizar avances o nuevas implementaciones con ella. 
  
  
 ## Sistema eléctrico 
