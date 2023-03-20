@@ -100,7 +100,11 @@ Se verifica que el botón de emergencia se encuentre presionado y el selector se
 
  
 
-### Operación protocolo web (Inalámbrica)
+### Operación Interfaz Web (Inalámbrica)
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/63918023/226268678-e2a00aa6-794b-47b3-aa03-f7d0e471db9c.png" alt="tool" width="500" /> <br/>
+ </p>
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/53317895/226145103-8eb52a06-be2d-4647-8012-ad020e4f36a1.png" alt="tool" width="500" /> <br/>
