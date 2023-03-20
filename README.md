@@ -125,7 +125,7 @@ Una vez explicados los detalles técnicos de la interfaz, podemos pasar a ver su
     <img src="https://user-images.githubusercontent.com/53317895/226145152-480f9f8f-8149-4210-8268-3ea3fefff237.png" alt="tool" width="500" /> <br/>
  </p>
  
- En el [manual de operacion](../Manuales/Manual de Manejo de Interfaz Web.pdf) con la interfaz web se explica detalladamente cómo se hace la conexión a Wi-Fi de la ESP32 cómo se obtiene la dirección IP a la que se deben conectar los dispositivos desde los que se quiera controlar la máquina.
+ En el [manual de operación](https://github.com/Danacruzrui/Rowing_Machine/blob/a2b3f7ed87f60954caf2f44a7c11d9946a2204fc/Manuales/Manual%20de%20Manejo%20de%20Interfaz%20Web.pdf) con la interfaz web se explica detalladamente cómo se hace la conexión a Wi-Fi de la ESP32 cómo se obtiene la dirección IP a la que se deben conectar los dispositivos desde los que se quiera controlar la máquina.
  
  
  
