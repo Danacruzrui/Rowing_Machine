@@ -127,7 +127,7 @@ Una vez explicados los detalles técnicos de la interfaz, podemos pasar a ver su
  
  En el [manual de operación](https://github.com/Danacruzrui/Rowing_Machine/blob/a2b3f7ed87f60954caf2f44a7c11d9946a2204fc/Manuales/Manual%20de%20Manejo%20de%20Interfaz%20Web.pdf) con la interfaz web se explica detalladamente cómo se hace la conexión a Wi-Fi de la ESP32 cómo se obtiene la dirección IP a la que se deben conectar los dispositivos desde los que se quiera controlar la máquina.
  
- **Nota**
+ ***Nota importante:***
  
  Es importante aclarar que debido a algunos problemas presentados durante la realización de las primeras pruebas de funcionamiento por parte de la interfaz Web, donde algunas veces si realizaba la conexión y podía recibir y enviar datos con la ESP32 y algunas veces no; y teniendo en cuenta que en muchos lugares de Colombia las redes no son lo suficientemente rápidas o estables como para actuar inmediatamente en la máquina; y que en este sentido se pondría en riesgo la salud del paciente; se decidió cambiar a una interfaz con comunicación serial. 
  
