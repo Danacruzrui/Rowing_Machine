@@ -105,7 +105,7 @@ Se verifica que el botón de emergencia se encuentre presionado y el selector se
 Para la operación de la interfaz Web se tiene el siguiente diagrama de comunicación. 
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/63918023/226268678-e2a00aa6-794b-47b3-aa03-f7d0e471db9c.png" alt="tool" width="500" /> <br/>
+    <img src="https://user-images.githubusercontent.com/63918023/226268678-e2a00aa6-794b-47b3-aa03-f7d0e471db9c.png" alt="tool" width="700" /> <br/>
  </p>
 
 El microcontrolador ESP32 tiene un módulo Wi-Fi que permite que el sistema se pueda conectar a una red local; además, al contar con suficiente memoria, este dispositivo puede ser utilizado como servidor para soportar una página web simple. Los archivos necesarios para esta página web tienen que ser guardados en una carpeta llamada data. Una vez se conecta el microcontrolador al Wi-Fi, se puede acceder a estos archivos a través de la dirección IP asiganada a este dispositivo, desde cualquier otro celular o computador conectado a la misma red local. Para hacer el intercambio de información entre la página web corriendo en los dispositivos conectados y el programa de control de arduino se hace el uso de peticiones Http (HTTP requests) con las que se comparten los datos recogidos por los sensores y se muestran en la interfaz.
