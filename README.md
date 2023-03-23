@@ -139,6 +139,8 @@ Una vez explicados los detalles técnicos de la interfaz, podemos pasar a ver su
 <p align="center">
     <img src="https://user-images.githubusercontent.com/53317895/225231644-08532db2-40a7-4afc-87ba-0b8fd96cf272.png" alt="tool" width="500" /> <br/>
  </p>
+ 
+ Hacer diagrama de donde están dispuestos cada uno de los dispositivos y describir cada uno de los dispositivos (para qué sirve y como funciona)
 
 
 ## Autores
