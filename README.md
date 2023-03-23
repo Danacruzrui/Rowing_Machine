@@ -49,29 +49,32 @@ El link para acceder al modelo es el siguiente: [CAD COLABORATIVO](https://drive
 ## Manual de ensamble 
 El ensamble se realiza sobre la máquina de remo Concept2 Model D, por lo cual resulta necesario tener previamente ensamblada la máquina según las indicaciones del fabricante, a continuación se adjunta el hipervínculo al manual de ensamble suministrado por Concept2  [Model D Assembly Instructions](https://www.concept2.com/service/indoor-rowers/model-d/manuals-and-schematics).
 Una vez se tiene la máquina correctamente ensamblada, se sugiere seguir el siguiente orden para instalar los subsistemas que componen la adaptación:
-1. **ACOPLE SILLA RIEL**
-El ensamble de este subsistema se realiza sobre la viga de la máquina Concept2, ubicando las platinas en los laterales del riel y los rodillos en la superficie superior e inferior del mismo, el detalle de este ensamble se encuentra contenido en el plano #70 
+1. **ACOPLE SILLA RIEL:**
+El ensamble de este subsistema se realiza sobre la viga de la máquina Concept2, ubicando las platinas en los laterales del riel y los rodillos en la superficie superior e inferior del mismo, teniendo en cuenta el contenido ensamblado con los rodillos, posterior se ajustan los ejes desde cada platina, el detalle de este ensamble se encuentra contenido en el plano #70.
 <p align="center">
     <img src="https://user-images.githubusercontent.com/53317895/226142626-c23eb29f-8360-418d-907a-f1ed1884f298.png" alt="tool" width="500" /> <br/>
  </p>
 
-2. **SILLA ERGONÓMICA**
+2. **SILLA ERGONÓMICA:**
+Se continua con el ensamble de este subsistema, realizado sobre el acople recién ajustado, ubicando la base estructural sobre esta, la cual se une a la base acolchada y al perfil estructural del espaldar, el cual también cuenta con un acolchado ajustable a la espalda.
 <p align="center">
     <img src="https://user-images.githubusercontent.com/53317895/226143649-2eb1c5f1-3ea4-46a5-a213-92f141e8ada4.png" alt="tool" width="500" /> <br/>
  </p> 
  
- 3. **MECANISMO DE MOVIMIENTO LINEAL**
- 
+3. **MECANISMO DE MOVIMIENTO LINEAL:**
+Proceda con el ensamble del mecanismo que permite el movimiento asistido, el cual se compone del soporte, que mantendrá el motor, la transmisión y la caja eléctrica, la correa y soportes frontal y trasero del movimiento lineal; donde se obtiene el ensamble del soporte del motor con sus elementos, el cual se ajusta a la base trasera de la máquina Concept2, luego se ajustan los soportes a la viga principal, donde van en la parte inferior junto a las poleas, continuando con el ajuste de las correas de transmisión pasando por las poleas al igual que ajustándola al acople silla-riel. 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/53317895/226144620-159d650f-b8ae-42fa-ac9b-2f3dde2aad7d.png" alt="tool" width="500" /> <br/>
  </p> 
  
- 4. **SUJECIÓN MIEMBROS INFERIORES**
+4. **SUJECIÓN MIEMBROS INFERIORES:**
+De forma separada y sin depender de lo anterior, se puede realizar el ajuste del sistema de sujeción para miembros inferiores, donde primero se realiza el ensamble del subsistema para luego si ajustarlo a la máquina Concept2. El subsistema tiene el orden de ensamble de la barra más ancha a las más angosta, con el fin de introducirlos correctamente permitiendo obtener el sistema de barra telescópica, en la punta se ajustan los soportes de resina y fibra para las piernas, colocándoles la correa de seguridad. Procedemos con el ajuste del soporte en la viga secundaria, bajo el punto seguro de la manija, y a las orejas ajustamos el sistema de barras ensamblado.
  <p align="center">
     <img src="https://user-images.githubusercontent.com/53317895/226144331-fddea5c7-6052-4350-88ae-a2378b8543bf.png" alt="tool" width="500" /> <br/>
  </p> 
  
- 5. **ENSAMBLE GENERAL**
+5. **ENSAMBLE GENERAL:**
+Finalmente observamos el ensamble completo en el que podemos comprobar el ajuste de cada uno de los subsistemas y su lugar en la maquina Concept2, identificando su operación conjunta.
   <p align="center">
     <img src="https://user-images.githubusercontent.com/53317895/226144190-366b1945-7734-4a68-b3fc-990733a97678.png" alt="tool" width="500" /> <br/>
  </p> 
