@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Control Concept</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body class="body_inicio">
+    <nav class="barra_navegacion">
+        <div id="menu" class="menu">
+          <a class="sitename">Control Concept</a>
+          <ul class="menu-items" id="menu-items">
+            <li><a href="index.html">Iniciar Sesión</a></li>
+            <li><a href="info.html">Información</a></li>
+          </ul>
+        </div>
+    </nav>
+    <div class="inicio_sesion">
+        <h1>Inicio de Sesión</h1>
+        <form method="dialog">
+            <div class="usuario">
+                <input type="text" id="input_usuario">
+                <label>Usuario</label>
+            </div>
+            <div class="contrasena">
+                <input type="password" id="input_contrasena">
+                <label>Contraseña</label>
+            </div>
+            <p id="error_inicio">Hola, Bienvenid@. Ingrese Usuario y Contraseña</p>
+            <button class="button" onclick="logIn()">Entrar</button>
+        </form>
+    </div>
+    <script src="inicio.js"></script>
+</body>
+</html>

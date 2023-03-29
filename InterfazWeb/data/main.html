@@ -1,0 +1,93 @@
+<!DOCTYPE html> <html>
+<head>
+  <meta charset="utf-8">
+  <title>Control Concept</title>
+  <link rel="stylesheet" href="estilos.css">
+  <script src="chart.js"></script>
+</head>
+
+
+<body>
+  <nav class="barra_navegacion">
+    <div id="menu" class="menu">
+      <a class="sitename">Control Concept</a>
+      <ul class="menu-items" id="menu-items">
+        <li><a href="#p_pos">Posición</a></li>
+        <li><a href="#p_vel">Velocidad</a></li>
+        <li><a href="#p_acel">Aceleración</a></li>
+      </ul>
+      <div class="opciones_menu">
+        <a href="index.html">Salir</a>
+      </div>
+    </div>
+  </nav>
+  
+
+  <section class="seccion_control">
+    <h1 id="iniciar">Control</h1>
+    <div>
+      <h2>Calibración</h2>
+      <button class="button" id="calibrate" onclick="sendCommandCalibrate()">Calibrar</button>
+    </div>
+    <div>
+      <h2>Parámetros</h2>
+      <form >
+        <label for="velocidad">Nivel de velocidad</label>
+        <select class="input_style" id="velocidad">
+          <option value="30">Baja</option>
+          <option value="100">Media</option>
+          <option value="150">Alta</option>
+        </select>
+        <br>
+        <label for="dist_min">Distancia minima</label>
+        <input class="input_style" type="number" name="distancia_minima" id="dist_min" min="0" max="66">
+        <br>
+        <label for="dist_max">Distancia máxima</label>
+        <input class="input_style" type="number" name="distancia_maxima" id="dist_max" min="0" max="66">
+      </form>
+    </div>
+    <div>
+      <h2>Operación</h2>
+      <button class="button" id="start" onclick="sendCommandStart()">Iniciar operación</button>
+      <button class="button" id="stop" onclick="sendCommandStop()">Detener operación</button>
+    </div>    
+  </section>
+
+
+  <section class="principal">
+
+    <section class="content">
+      <div class="descripcion_inicial">
+        <h1 class="titulo">Control Concept</h1>
+        <p class="summary">Módulo de control para la máquina de remo concept 2.</p>
+      </div>
+    </section>
+
+    <section class="seccion_grafica">
+      <h1 id="lecturas">Lecturas de datos</h1>
+      <p><span>Velocidad: <span id="vel"></span> rpm</span></p>
+      <p><span>Posición: <span id="pos"></span> m</span></p>
+      <p><span>Aceleración: <span id="acel"></span> m/s<sup>2</sup></span></p>
+    </section>
+      
+    <section class="seccion_grafica">
+      <h1 id="p_pos">Perfil de posición</h1>
+      <center><canvas id="myChart2" style="width:100%;max-width:600px"></canvas></center>
+    </section>
+  
+    <section class="seccion_grafica">
+      <h1 id="p_vel">Perfil de velocidad</h1>
+      <center><canvas id="myChart" style="width:100%;max-width:600px"></canvas></center>
+    </section>
+  
+    <section class="seccion_grafica">
+      <h1 id="p_acel">Perfil de aceleración</h1>
+      <center><canvas id="myChart3" style="width:100%;max-width:600px;"></canvas></center>
+    </section>
+  
+  </section>
+
+  
+  <script src="script.js"></script>
+</body>
+</html>

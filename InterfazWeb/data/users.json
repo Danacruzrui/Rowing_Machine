@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Diego",
+        "last-naem": "Osorio",
+        "user": "dosoriof",
+        "password": "dosoriof2022"
+    },
+    {
+        "name": "Administrador",
+        "last-naem": "Administrador",
+        "user": "admin",
+        "password": "unal2022"
+    },
+    {
+        "name": "Angie",
+        "last-naem": "Vega",
+        "user": "avega",
+        "password": "avega2022"
+    },
+    {
+        "name": "Angélica",
+        "last-naem": "Ramírez",
+        "user": "aramirez",
+        "password": "aramirez2022"
+    }
+]
