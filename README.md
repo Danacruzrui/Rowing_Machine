@@ -12,7 +12,7 @@ En este repositorio encontrarás documentación, manuales, códigos e hipervínc
 4. [Manual de ensamble](#Manual-de-ensamble )
 5. [Manual de operación](#Manual-de-operación) 
 6. [Sistema eléctrico](#Sistema-eléctrico)
-7. [Documentación Interfaz Control](#Documentación Interfaz Control)
+7. [Documentación Interfaz Control](#Documentación-Interfaz-Control)
 8. [Autores](#Autores)
 
 >Nota
