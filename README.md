@@ -12,7 +12,8 @@ En este repositorio encontrarás documentación, manuales, códigos e hipervínc
 4. [Manual de ensamble](#Manual-de-ensamble )
 5. [Manual de operación](#Manual-de-operación) 
 6. [Sistema eléctrico](#Sistema-eléctrico)
-7. [Autores](#Autores)
+7. [Documentación Interfaz Control](Documentación Interfaz Control)
+8. [Autores](#Autores)
 
 >Nota
 
@@ -144,6 +145,8 @@ Una vez explicados los detalles técnicos de la interfaz, podemos pasar a ver su
  </p>
  
 
+## Documentación Interfaz Control
+La interfaz de control de la adaptación de la máquina de remo Concept 2, fue definida como un GUI modelada en Python usando la librería tktinker, en lo que sigue, se definirán las características que la integran con el fin de lograr un uso adecuado de esta y con ello conseguir una manipulación idónea de la máquina de remo Concept 2 adaptada. La aplicación desarrollada lleva por nombre Control Concept 2.
 
 ## Autores
 > - Brayan Stiven Acuña García (bsacunag@unal.edu.co)
