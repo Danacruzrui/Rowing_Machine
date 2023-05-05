@@ -141,8 +141,18 @@ Una vez explicados los detalles técnicos de la interfaz, podemos pasar a ver su
 ## Sistema eléctrico 
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/53317895/225231644-08532db2-40a7-4afc-87ba-0b8fd96cf272.png" alt="tool" width="500" /> <br/>
+    <img src="https://user-images.githubusercontent.com/53317895/225231644-08532db2-40a7-4afc-87ba-0b8fd96cf272.png" alt="tool" width="800" /> <br/>
  </p>
+ 
+ Los elementos que se ven en el diagrama anterior se listan a continuación:
+-	**Motor**: Este es un motor DC que funciona a 24 V de tensión, brindando una potencia nominal  de 300W y alcanza cerca de 2750 rpm (Se encuentra debajo y a un extremo de la viga sobre la que se mueve la silla)
+-	**Fuente**: Se dispone de una fuente de 24V para hacer la alimentación del motor a través del driver. (Se encuentra dentro de la caja de control)
+-	**Driver**: Este driver tiene referencia IBT2 y es el encargado de convertir las señales de control del microcontrolador en señales de potencia de alta corriente para hacer mover el motor. Recibe entradas entre 3.3V – 5V y las convierte en salidas desde 5,5V a 28V (Se encuentra dentro de la caja de control)
+-	**Microcontrolador**: Se usó un microcontrolador ESP32 para generar las rutinas, sistemas de control y adquisición de datos. (Se encuentra dentro de la caja de control)
+-	**Encoder**: El encoder usado permite la lectura de 360 pulsos por revolución. (Se encuentra dispuesto en el eje del motor)
+-	**Finales de carrera**: Dos sensores que generan señales cuando la silla llega a los límites de movimiento. Se usaron sensores de campo magnético reed switch. (Se encuentran sobre la viga de movimiento de la silla)
+-	**Sensor de distancia**: El sensor con referencia VL53L0X proporciona la medida de distancia de movimiento de la silla. (Está puesto en un extremo de la viga)
+
  
 
 ## Documentación Interfaz Control
