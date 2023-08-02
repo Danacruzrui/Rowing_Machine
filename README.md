@@ -22,7 +22,7 @@ En este repositorio encontrarás documentación, manuales, códigos e hipervínc
 El proyecto Rowing Machine consiste en la adaptación e instrumentación de la maquina de remo Concept2, con el objetivo de implementarla como un dispositivo de rehabilitación para pacientes con lesión medular menor a T7 mediante la asistencia controlada del movimiento de flexión y extensión propio del ejercicio de remo. 
 Como respuesta a se realiza el diseño de un mecanismo de movimiento lineal capaz de desplazar al paciente según los perfiles de desplazamiento propios del ejercicio, mediante la implementación de un sistema de poleas que transmite la potencia suministrada por un motor DC controlado desde una interfaz web por medio de la tarjeta de desarrollo ESP32
 <p align="center">
-    <img src="https://github.com/Danacruzrui/Rowing_Machine/issues/17#issuecomment-1662909811" alt="tool" width="500" /> <br/>
+    <img src="https://github.com/Danacruzrui/Rowing_Machine/assets/53317895/8b1d1120-0951-4ae5-8065-53699dafb9ce" alt="tool" width="500" /> <br/>
  </p>
  
 ## Unidad de almacenamiento 
