@@ -22,12 +22,13 @@ En este repositorio encontrarás documentación, manuales, códigos e hipervínc
 El proyecto Rowing Machine consiste en la adaptación e instrumentación de la maquina de remo Concept2, con el objetivo de implementarla como un dispositivo de rehabilitación para pacientes con lesión medular menor a T7 mediante la asistencia controlada del movimiento de flexión y extensión propio del ejercicio de remo. 
 Como respuesta a se realiza el diseño de un mecanismo de movimiento lineal capaz de desplazar al paciente según los perfiles de desplazamiento propios del ejercicio, mediante la implementación de un sistema de poleas que transmite la potencia suministrada por un motor DC controlado desde una interfaz web por medio de la tarjeta de desarrollo ESP32
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/53317895/210720098-789618ae-394b-46b5-9458-a66aac7c1bcf.png" alt="tool" width="500" /> <br/>
+    <img src="[https://user-images.githubusercontent.com/53317895/210720098-789618ae-394b-46b5-9458-a66aac7c1bcf.png](https://github.com/Danacruzrui/Rowing_Machine/assets/53317895/a099a094-d15a-4a8e-89be-8967fe692e8d)" alt="tool" width="500" /> <br/>
  </p>
  
 ## Unidad de almacenamiento 
 
 A lo largo del desarrollo del proyecto se optó por almacenar los archivos relacionados al proyecto en una unidad compartida de Google Drive, los archivos fueron organizados en 14 carpetas que incluyen la documentación previa provista por los directores del proyecto, las actas, actividades y planeación que reflejan la metodología implementada en la ejecución del proyecto y archivos CAD (planos y modelos) correspondientes a la adaptación realizada. El acceso a la unidad compartida es restringido por lo cual es necesario solicitar acceso por medio de los correos electronicos de los autores adjuntos al final de este repositorio.
+
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/53317895/210720098-789618ae-394b-46b5-9458-a66aac7c1bcf.png" alt="tool" width="500" /> <br/>
